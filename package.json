@@ -44,6 +44,7 @@
     "@stdlib/constants-float32-exponent-bias": "^0.2.2",
     "@stdlib/constants-float32-exponent-mask": "^0.2.2",
     "@stdlib/constants-float32-min-base2-exponent": "github:stdlib-js/constants-float32-min-base2-exponent#main",
+    "@stdlib/constants-float32-precision": "^0.2.2",
     "@stdlib/constants-float32-sign-mask": "^0.2.2",
     "@stdlib/math-base-napi-binary": "^0.3.0",
     "@stdlib/number-float32-base-from-word": "^0.2.2",

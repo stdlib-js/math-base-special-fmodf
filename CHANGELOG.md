@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-11-10)
+## Unreleased (2024-11-17)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`8a03f83`](https://github.com/stdlib-js/stdlib/commit/8a03f833d9808c17418225664d7250b94fb0e1b5) - **refactor:** use constant package in `math/base/special/fmodf` (#3120) [(#3120)](https://github.com/stdlib-js/stdlib/pull/3120) _(by Gunj Joshi)_
 -   [`7fd112c`](https://github.com/stdlib-js/stdlib/commit/7fd112c799e3a864d975357b2066e45f4196653e) - **feat:** add `math/base/special/fmodf` [(#3059)](https://github.com/stdlib-js/stdlib/pull/3059) _(by Gunj Joshi, Philipp Burckhardt)_
 
 </details>
