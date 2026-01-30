@@ -60,7 +60,7 @@ where `x` is the **dividend** and `y` is the **divisor**.
 ## Usage
 
 ```javascript
-import fmodf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fmodf@esm/index.mjs';
+import fmodf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fmodf@v0.1.0-esm/index.mjs';
 ```
 
 #### fmodf( x, y )
@@ -105,7 +105,7 @@ v = fmodf( NaN, NaN );
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import fmodf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fmodf@esm/index.mjs';
+import fmodf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fmodf@v0.1.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
