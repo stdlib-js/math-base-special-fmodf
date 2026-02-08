@@ -60,6 +60,11 @@ where `x` is the **dividend** and `y` is the **divisor**.
 ## Usage
 
 ```javascript
+import fmodf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fmodf@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-fmodf/tags). For example,
+
+```javascript
 import fmodf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fmodf@v0.1.1-esm/index.mjs';
 ```
 
@@ -105,7 +110,7 @@ v = fmodf( NaN, NaN );
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import fmodf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fmodf@v0.1.1-esm/index.mjs';
+import fmodf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fmodf@esm/index.mjs';
 
 var opts = {
     'dtype': 'float32'
