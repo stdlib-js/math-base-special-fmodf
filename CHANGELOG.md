@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`2ae6670`](https://github.com/stdlib-js/stdlib/commit/2ae6670cd62351feda72b27a548b1fef076741d5) - **docs:** update equation _(by Athan Reines)_
 -   [`d391b04`](https://github.com/stdlib-js/stdlib/commit/d391b0458eaf0d05c3549414f7d5e8894a86be6d) - **test:** migrate `math/base/special/fmodf` to ULP-based testing [(#12791)](https://github.com/stdlib-js/stdlib/pull/12791) _(by Philipp Burckhardt)_
 -   [`59c9969`](https://github.com/stdlib-js/stdlib/commit/59c9969a580e74428505ba91634607f110ec71bf) - **bench:** refactor to use string interpolation in `math/base/special` [(#11388)](https://github.com/stdlib-js/stdlib/pull/11388) _(by Karan Anand)_
 
@@ -25,8 +26,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
 -   Philipp Burckhardt
 
