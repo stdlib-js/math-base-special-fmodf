@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-01)
+## Unreleased (2026-10-02)
 
 <section class="commits">
 
@@ -12,8 +12,11 @@
 
 <details>
 
+-   [`1a78936`](https://github.com/stdlib-js/stdlib/commit/1a789367328a127b029ac01287a730c649884c0c) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`7a67bd3`](https://github.com/stdlib-js/stdlib/commit/7a67bd3e5cb80df7208ba3a63e118e9bdf6b5afa) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
 -   [`b751bc1`](https://github.com/stdlib-js/stdlib/commit/b751bc15912ae1df0f94968d2d47eabe80620bb1) - **docs:** update equation _(by Athan Reines)_
 -   [`2ae6670`](https://github.com/stdlib-js/stdlib/commit/2ae6670cd62351feda72b27a548b1fef076741d5) - **docs:** update equation _(by Athan Reines)_
+-   [`cd25362`](https://github.com/stdlib-js/stdlib/commit/cd25362c01af11e5becdfacba740fbe11ca9e9d3) - **docs:** update equation _(by Athan Reines)_
 -   [`d391b04`](https://github.com/stdlib-js/stdlib/commit/d391b0458eaf0d05c3549414f7d5e8894a86be6d) - **test:** migrate `math/base/special/fmodf` to ULP-based testing [(#12791)](https://github.com/stdlib-js/stdlib/pull/12791) _(by Philipp Burckhardt)_
 -   [`59c9969`](https://github.com/stdlib-js/stdlib/commit/59c9969a580e74428505ba91634607f110ec71bf) - **bench:** refactor to use string interpolation in `math/base/special` [(#11388)](https://github.com/stdlib-js/stdlib/pull/11388) _(by Karan Anand)_
 
